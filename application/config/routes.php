@@ -55,3 +55,6 @@ $route['translate_uri_dashes'] = FALSE;
 
 // moduler based routes
 $route['simple-message'] = 'message/simpleMessage';
+$route['my-view'] = 'template/my_view';
+$route['home'] = 'home/call_homepage';
+$route['about'] = 'about/call_about';
